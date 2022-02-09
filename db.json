@@ -4,12 +4,11 @@
     "idCase": "testIdCase",
     "nbLot": "testNbLot",
     "nbRound": "testNbRound",
-    "tag": "testTag",
+    "title": "testTag",
     "statusRFP": "testStatusRFP",
     "startDate": "testStartDate",
     "endDate": "testEndDate",
     "offer": "testOffer",
-    "forum": "testForum",
     "entity": "testEntity",
     "businessLine": "testBusinessLine",
     "subBusinessLine": "testSubBusinessLine"  
